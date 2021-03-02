@@ -1,0 +1,13 @@
+C:\DTCRepos\Sandbox\SandBox.Basics\bin\Debug\netcoreapp3.1\SandBox.Basics.exe
+C:\DTCRepos\Sandbox\SandBox.Basics\bin\Debug\netcoreapp3.1\SandBox.Basics.deps.json
+C:\DTCRepos\Sandbox\SandBox.Basics\bin\Debug\netcoreapp3.1\SandBox.Basics.runtimeconfig.json
+C:\DTCRepos\Sandbox\SandBox.Basics\bin\Debug\netcoreapp3.1\SandBox.Basics.runtimeconfig.dev.json
+C:\DTCRepos\Sandbox\SandBox.Basics\bin\Debug\netcoreapp3.1\SandBox.Basics.dll
+C:\DTCRepos\Sandbox\SandBox.Basics\bin\Debug\netcoreapp3.1\SandBox.Basics.pdb
+C:\DTCRepos\Sandbox\SandBox.Basics\obj\Debug\netcoreapp3.1\SandBox.Basics.AssemblyInfoInputs.cache
+C:\DTCRepos\Sandbox\SandBox.Basics\obj\Debug\netcoreapp3.1\SandBox.Basics.AssemblyInfo.cs
+C:\DTCRepos\Sandbox\SandBox.Basics\obj\Debug\netcoreapp3.1\SandBox.Basics.csproj.CoreCompileInputs.cache
+C:\DTCRepos\Sandbox\SandBox.Basics\obj\Debug\netcoreapp3.1\SandBox.Basics.dll
+C:\DTCRepos\Sandbox\SandBox.Basics\obj\Debug\netcoreapp3.1\SandBox.Basics.pdb
+C:\DTCRepos\Sandbox\SandBox.Basics\obj\Debug\netcoreapp3.1\SandBox.Basics.genruntimeconfig.cache
+C:\DTCRepos\Sandbox\SandBox.Basics\obj\Debug\netcoreapp3.1\SandBox.Basics.csprojAssemblyReference.cache
